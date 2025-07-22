@@ -11,12 +11,15 @@
 ### 📱 Meow.zip이 뭐에요?
 
 <div align="center">
-  <img src="../images/1.webp" alt="메인 화면" width="200"/>
-  <img src="../images/2.webp" alt="고양이 등록" width="200"/>
-  <img src="../images/3.webp" alt="돌봄 일지" width="200"/>
-  <img src="../images/4.webp" alt="커뮤니티" width="200"/>
-  <img src="../images/5.webp" alt="프로필" width="200"/>
-  <img src="../images/6.webp" alt="알림" width="200"/>
+  
+<img src="../images/1.webp" alt="메인 화면" width="180"/>
+<img src="../images/2.webp" alt="고양이 등록" width="180"/>
+<img src="../images/3.webp" alt="돌봄 일지" width="180"/>
+
+<img src="../images/4.webp" alt="커뮤니티" width="180"/>
+<img src="../images/5.webp" alt="프로필" width="180"/>
+<img src="../images/6.webp" alt="알림" width="180"/>
+
 </div>
 
 ## 🎯 프로젝트 소개
