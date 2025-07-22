@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./app-icon.webp" 
-  alt="Meow.zip Logo" width="120" 
+  <img src="../images//app-icon.webp" 
+  alt="Meow.zip App icon" width="120" 
   style="border-radius: 22%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
   # 🐱 Meow.zip
@@ -11,12 +11,12 @@
 ### 📱 Meow.zip이 뭐에요?
 
 <div align="center">
-  <img src="./app-store/1.webp" alt="메인 화면" width="200"/>
-  <img src="./app-store/2.webp" alt="고양이 등록" width="200"/>
-  <img src="./app-store/3.webp" alt="돌봄 일지" width="200"/>
-  <img src="./app-store/4.webp" alt="커뮤니티" width="200"/>
-  <img src="./app-store/5.webp" alt="프로필" width="200"/>
-  <img src="./app-store/6.webp" alt="알림" width="200"/>
+  <img src="../images/1.webp" alt="메인 화면" width="200"/>
+  <img src="../images/2.webp" alt="고양이 등록" width="200"/>
+  <img src="../images/3.webp" alt="돌봄 일지" width="200"/>
+  <img src="../images/4.webp" alt="커뮤니티" width="200"/>
+  <img src="../images/5.webp" alt="프로필" width="200"/>
+  <img src="../images/6.webp" alt="알림" width="200"/>
 </div>
 
 ## 🎯 프로젝트 소개
@@ -66,7 +66,7 @@
 
 ### 📂 **레포지토리**
 - **[📱 Frontend](https://github.com/meowzip/meowzip-front)** - Next.js 기반 웹/모바일 앱
-- **[🛠 Backend API](https://github.com/meowzip/meowzip-backend)** - 서버 API 및 데이터베이스
+- **[🛠 Backend](https://github.com/meowzip/meowzip-backend)** - 서버 API 및 데이터베이스
 
 ### 🎯 **서비스 링크**
 - **[📱 앱스토어](https://apps.apple.com/app/meowzip)** - iOS 앱 다운로드 (준비 중)
@@ -79,14 +79,8 @@
 - **피드백**: 서비스 사용 후 개선사항 제안
 - **커뮤니티**: 길고양이 돌봄 경험 및 노하우 공유
 
-## 📞 연락처
-
 ### 🏢 **팀 정보**
 - **이메일**: meowzzip@gmail.com
-
-### 🐛 **버그 신고 및 제안**
-- **[이슈 등록](https://github.com/your-org/meowzip/issues)** - 버그 리포트 및 기능 제안
-- **[보안 이슈](mailto:security@meowzip.com)** - 보안 관련 문의
 
 ---
 
@@ -102,4 +96,4 @@
 
 ---
 
-> **라이선스**: Apache 2.0 | **현재 버전**: v0.1.0 | **개발 기간**: 2023.10 ~ 진행 중 
+> **라이선스**: Apache 2.0 | **현재 버전**: v0.1.0
